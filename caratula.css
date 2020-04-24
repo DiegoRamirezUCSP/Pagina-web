@@ -1,0 +1,35 @@
+tittle {	
+  font-size: 32px;
+  color: blue;
+  border-style: solid;
+  border-color: #000000;
+  background-color: white;
+}
+
+body {
+  background: url(ucsp-fondo.jpg);
+}
+
+form {
+  background-color: lightblue;
+  height: 350px;
+  width: 40%;
+}
+
+label,input {
+  position: relative;
+  left: 30px;
+}
+
+button{
+  background-color: blue;
+  color: white;
+  border-style: solid;
+  border-color: blue;
+  position: relative;
+  left: 30px;
+}
+
+p{
+  color: white;
+}
